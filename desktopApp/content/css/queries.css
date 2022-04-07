@@ -120,6 +120,7 @@
   /* mobile navigation */
   .btn-mobile-nav {
     display: block;
+    z-index: 9999;
   }
 
   .main-nav {
@@ -188,7 +189,7 @@
     margin-bottom: 4.8rem;
   }
 
-  .princing-plan {
+  .pricing-plan {
     width: 100%;
   }
 

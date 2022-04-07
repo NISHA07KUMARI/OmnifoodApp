@@ -68,6 +68,8 @@ html {
   /* Percentage of user's browser font-size setting -- we use percentage to not fix the value of font size*/
   font-size: 62.5%;
   overflow-x: hidden;
+  /* does not work on safari nd edge */
+  /* scroll-behavior: smooth; */
 }
 
 body {
